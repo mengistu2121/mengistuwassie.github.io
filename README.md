@@ -1,4 +1,3 @@
-# mengistuwassie.github.io
 # Mengistu A. Wassie, PhD
 
 Personal academic website and research profile  
